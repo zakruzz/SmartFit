@@ -54,11 +54,10 @@ Tampilan dashboard interaktif menyajikan:
 
 ## 👥 Tim Pengembang
 
-- Nugroho Indra Kurniawan – 2042221031 – ITS 
-- Lintang Herinda Kosesar – 2042221017 – ITS
-- Ahmad Fairuz Zaki Widyatna – 2042221061 – ITS 
-- Alan Darmawan Dewantoro – 2042221020 – ITS 
-
+- Nugroho Indra Kurniawan – 2042221031
+- Lintang Herinda Kosesar – 2042221017
+- Ahmad Fairuz Zaki Widyatna – 2042221061
+- Alan Darmawan Dewantoro – 2042221020
 > Institut Teknologi Sepuluh Nopember, Surabaya – 2025
 
 ## 📎 Lampiran
