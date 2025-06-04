@@ -29,11 +29,7 @@
 - **Notifikasi Ringan**: Motivasi olahraga dan saran harian.
 - **Cross-Platform**: Tersedia dalam bentuk aplikasi mobile & dashboard berbasis web.
 
-## 🔧 Teknologi yang Digunakan
-
-## 📷 Ilustrasi Desain
-
-### 🎨 3D Desain Gelang SMARTFIT
+### 🎨 3D Desain SMARTFIT
 
 <img src="img/JAM.jpg" alt="3D Design" width="400"/>
 
