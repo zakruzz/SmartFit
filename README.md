@@ -18,7 +18,7 @@
 
 ### 🎨 3D Desain Gelang SMARTFIT
 
-<img src="img/3d_design.png" alt="3D Design" width="400"/>
+<img src="img/Smartfit Text Black.png" alt="3D Design" width="400"/>
 
 Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyamanan pengguna saat berolahraga.
 
@@ -30,7 +30,8 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
 
 ### ⚡ Wiring Diagram Sistem Elektrikal
 
-<img src="img/wiring_diagram.png" alt="Wiring Diagram" width="400"/>
+<img src="img/Elektrikal.png" alt="Wiring Diagram 1" width="400"/>
+<img src="img/Elektrikal2.png" alt="Wiring Diagram 2" width="400"/>
 
 - **Software**:
   - Bahasa Pemrograman: Python (AI), Arduino C++ (embedded), JavaScript (web)
@@ -51,9 +52,24 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
 
 ### 📊 Hasil Training Model ANN
 
-<img src="img/training_result.png" alt="Training Accuracy" width="400"/>
+Push-Up :
+<img src="img/pushup.png" alt="Training Accuracy" width="400"/>
+
+Sit-Up :
+<img src="img/situp.png" alt="Training Accuracy" width="400"/>
+
+Squat-Jump:
+<img src="img/squatjump.png" alt="Training Accuracy" width="400"/>
+
+Tingkat Akurasi :
+<img src="img/tingkat_akurasi.png" alt="Training Accuracy" width="400"/>
 
 Model artificial neural network menghasilkan **akurasi sebesar 94.5%** dalam mengenali aktivitas fisik dari data akselerometer yang dikumpulkan melalui Edge Impulse.
+
+### 📊 Bukti Pengambilan Data
+
+Foto Pengambilan Data :
+<img src="img/ambil_data.jpg" alt="Training Accuracy" width="400"/>
 
 ## 🖥️ Dashboard Monitoring
 
@@ -62,6 +78,15 @@ Tampilan dashboard interaktif menyajikan:
 - Jumlah repetisi
 - Performa mingguan
 - Statistik pengguna
+
+Foto Dashboard Monitoring :
+<img src="img/Display_HP1.png" alt="Training Accuracy" width="400"/>
+<img src="img/Display_HP2.png" alt="Training Accuracy" width="400"/>
+<img src="img/Display_HP3.png" alt="Training Accuracy" width="400"/>
+
+## 🌍 Arsitektur IoT
+
+<img src="img/Arsitektur_IoT.png" alt="Training Accuracy" width="400"/>
 
 ## 🌍 Dampak Sosial
 
