@@ -1,6 +1,15 @@
 # SMARTFIT: Smart Wearable for Fitness Training
+**DOSEN PEMBIMBING : Ahmad Radhy, S.Si, M.Si**
 
 **SMARTFIT** adalah inovasi gelang pintar berbasis AIoT yang dirancang untuk mendukung transformasi digital dalam kebugaran tubuh. Sistem ini memanfaatkan kombinasi sensor akselerometer, mikrokontroler, Artificial Neural Network (ANN), serta integrasi dengan aplikasi mobile dan website untuk mengenali gerakan olahraga seperti push-up, sit-up, dan squat jump secara real-time.
+
+## 👥 Tim Pengembang
+
+- Nugroho Indra Kurniawan – 2042221031
+- Lintang Herinda Kosesar – 2042221017
+- Ahmad Fairuz Zaki Widyatna – 2042221061
+- Alan Darmawan Dewantoro – 2042221020
+> Institut Teknologi Sepuluh Nopember, Surabaya – 2025
 
 ## 📱 Fitur Utama
 
@@ -18,7 +27,7 @@
 
 ### 🎨 3D Desain Gelang SMARTFIT
 
-<img src="img/Smartfit Text Black.png" alt="3D Design" width="400"/>
+<img src="img/JAM.jpg" alt="3D Design" width="400"/>
 
 Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyamanan pengguna saat berolahraga.
 
@@ -27,11 +36,6 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
   - MPU6050 Accelerometer
   - Baterai LiPo 3.7V 250mAh
   - Step-up Converter 5V
-
-### ⚡ Wiring Diagram Sistem Elektrikal
-
-<img src="img/Elektrikal.png" alt="Wiring Diagram 1" width="400"/>
-<img src="img/Elektrikal_2.png" alt="Wiring Diagram 2" width="400"/>
 
 - **Software**:
   - Bahasa Pemrograman: Arduino C++ (embedded), JavaScript (web)
@@ -94,14 +98,6 @@ Foto Dashboard Monitoring : <br>
 - Mendukung gaya hidup sehat berbasis teknologi
 - Potensi integrasi dalam program pemerintah seperti Makan Bergizi Gratis (MBG)
 - Dapat digunakan di rumah, gym, sekolah, hingga fasilitas kesehatan
-
-## 👥 Tim Pengembang
-
-- Nugroho Indra Kurniawan – 2042221031
-- Lintang Herinda Kosesar – 2042221017
-- Ahmad Fairuz Zaki Widyatna – 2042221061
-- Alan Darmawan Dewantoro – 2042221020
-> Institut Teknologi Sepuluh Nopember, Surabaya – 2025
 
 ## 📎 Lampiran
 - Total biaya prototype: ±Rp329.900
