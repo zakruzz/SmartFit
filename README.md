@@ -14,11 +14,23 @@
 
 ## 🔧 Teknologi yang Digunakan
 
+## 📷 Ilustrasi Desain
+
+### 🎨 3D Desain Gelang SMARTFIT
+
+<img src="img/3d_design.png" alt="3D Design" width="400"/>
+
+Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyamanan pengguna saat berolahraga.
+
 - **Hardware**:
   - ESP32-S3 Mini
   - MPU6050 Accelerometer
   - Baterai LiPo 3.7V 250mAh
   - Step-up Converter 5V
+
+### ⚡ Wiring Diagram Sistem Elektrikal
+
+<img src="img/wiring_diagram.png" alt="Wiring Diagram" width="400"/>
 
 - **Software**:
   - Bahasa Pemrograman: Python (AI), Arduino C++ (embedded), JavaScript (web)
@@ -36,6 +48,12 @@
   - Flatten Layer + Dropout
   - Output: 4 kelas aktivitas (idle, push-up, sit-up, squat jump)
 - Akurasi: **94.5%** (hasil pelatihan di Edge Impulse)
+
+### 📊 Hasil Training Model ANN
+
+<img src="img/training_result.png" alt="Training Accuracy" width="400"/>
+
+Model artificial neural network menghasilkan **akurasi sebesar 94.5%** dalam mengenali aktivitas fisik dari data akselerometer yang dikumpulkan melalui Edge Impulse.
 
 ## 🖥️ Dashboard Monitoring
 
