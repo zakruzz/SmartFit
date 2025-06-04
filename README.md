@@ -11,10 +11,10 @@
 **SMARTFIT** adalah inovasi gelang pintar berbasis AIoT yang dirancang untuk mendukung transformasi digital dalam kebugaran tubuh. Sistem ini memanfaatkan kombinasi sensor akselerometer, mikrokontroler, Artificial Neural Network (ANN), serta integrasi dengan aplikasi mobile dan website untuk mengenali gerakan olahraga seperti push-up, sit-up, dan squat jump secara real-time.
 
 **Dokumen Teknis SMARTFIT :**
-<a href:"">Dokumen Teknis</a>
+[Dokumen Teknis](https://alamat-url.com)
 
 **Video Demo SMARTFIT :**
-<a href:"https://drive.google.com/drive/folders/1Ru0IxpvqS2wF2XoDFobbOnO2OG3vka-e">Video Demo</a>
+[Video Demo](https://drive.google.com/drive/folders/1Ru0IxpvqS2wF2XoDFobbOnO2OG3vka-e)
 
 
 
@@ -91,9 +91,7 @@ Tampilan dashboard interaktif menyajikan:
 - Statistik pengguna
 
 Foto Dashboard Monitoring : <br>
-<img src="img/Display_HP1.jpg" alt="Training Accuracy" width="400"/>
-<img src="img/Display_HP2.jpg" alt="Training Accuracy" width="400"/>
-<img src="img/Display_HP3.jpg" alt="Training Accuracy" width="400"/>
+<img src="img/Display_HP4.jpg" alt="Dashboard" width="400"/>
 
 ## 🌍 Arsitektur IoT
 
