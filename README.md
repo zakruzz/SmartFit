@@ -104,8 +104,6 @@ Foto Dashboard Monitoring : <br>
 > Institut Teknologi Sepuluh Nopember, Surabaya – 2025
 
 ## 📎 Lampiran
-
-- Estimasi daya tahan baterai: ±5–6 jam pemakaian aktif
 - Total biaya prototype: ±Rp329.900
 
 ---
