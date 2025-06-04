@@ -34,7 +34,7 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
 <img src="img/Elektrikal_2.png" alt="Wiring Diagram 2" width="400"/>
 
 - **Software**:
-  - Bahasa Pemrograman: Python (AI), Arduino C++ (embedded), JavaScript (web)
+  - Bahasa Pemrograman: Arduino C++ (embedded), JavaScript (web)
   - UI/UX: Tailwind CSS, GSAP
   - Komunikasi: MQTT (HiveMQ Broker)
   - Platform AI: Edge Impulse
