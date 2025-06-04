@@ -31,7 +31,7 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
 ### ⚡ Wiring Diagram Sistem Elektrikal
 
 <img src="img/Elektrikal.png" alt="Wiring Diagram 1" width="400"/>
-<img src="img/Elektrikal2.png" alt="Wiring Diagram 2" width="400"/>
+<img src="img/Elektrikal_2.png" alt="Wiring Diagram 2" width="400"/>
 
 - **Software**:
   - Bahasa Pemrograman: Python (AI), Arduino C++ (embedded), JavaScript (web)
@@ -80,9 +80,9 @@ Tampilan dashboard interaktif menyajikan:
 - Statistik pengguna
 
 Foto Dashboard Monitoring :
-<img src="img/Display_HP1.png" alt="Training Accuracy" width="400"/>
-<img src="img/Display_HP2.png" alt="Training Accuracy" width="400"/>
-<img src="img/Display_HP3.png" alt="Training Accuracy" width="400"/>
+<img src="img/Display_HP1.jpg" alt="Training Accuracy" width="400"/>
+<img src="img/Display_HP2.jpg" alt="Training Accuracy" width="400"/>
+<img src="img/Display_HP3.jpg" alt="Training Accuracy" width="400"/>
 
 ## 🌍 Arsitektur IoT
 
