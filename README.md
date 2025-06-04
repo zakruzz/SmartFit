@@ -11,12 +11,13 @@
 **SMARTFIT** adalah inovasi gelang pintar berbasis AIoT yang dirancang untuk mendukung transformasi digital dalam kebugaran tubuh. Sistem ini memanfaatkan kombinasi sensor akselerometer, mikrokontroler, Artificial Neural Network (ANN), serta integrasi dengan aplikasi mobile dan website untuk mengenali gerakan olahraga seperti push-up, sit-up, dan squat jump secara real-time.
 
 **Dokumen Teknis SMARTFIT :**
-[Dokumen Teknis](https://alamat-url.com)
+[Dokumen Teknis](https://alamat-url.com) -> belum
 
 **Video Demo SMARTFIT :**
 [Video Demo](https://drive.google.com/drive/folders/1Ru0IxpvqS2wF2XoDFobbOnO2OG3vka-e)
 
-
+**Website SMARTFIT :**
+[Website SMARTFIT](https://smartfit.site/index.php)
 
 ## 📱 Fitur Utama
 
@@ -50,7 +51,7 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
   - Komunikasi: MQTT (HiveMQ Broker)
   - Platform AI: Edge Impulse
   - Database: MySQL
-  - Deployment: WebViewer (mobile app)
+  - Deployment: WebViewer (mobile app) & Website
 
 ## 🧠 Model AI (Artificial Neural Network)
 
@@ -80,7 +81,7 @@ Model artificial neural network menghasilkan **akurasi sebesar 94.5%** dalam men
 ### 📊 Bukti Pengambilan Data
 
 Foto Pengambilan Data : <br>
-<img src="img/ambil_data.jpg" alt="Training Accuracy" width="400"/>
+<img src="img/ambil_data.jpg" alt="Training" width="400"/>
 
 ## 🖥️ Dashboard Monitoring
 
@@ -95,7 +96,11 @@ Foto Dashboard Monitoring : <br>
 
 ## 🌍 Arsitektur IoT
 
-<img src="img/Arsitektur_IoT.png" alt="Training Accuracy" width="400"/>
+<img src="img/Arsitektur_IoT.png" alt="IoT" width="400"/>
+
+## Hasil Alat 🎨
+<img src="img/Hasil1.jpg" alt="Hasil" width="400"/> <br>
+<img src="img/Hasil2.jpg" alt="Hasil" width="400"/> <br>
 
 ## 🌍 Dampak Sosial
 
