@@ -42,7 +42,7 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
   - Step-up Converter 5V
 
 - **Software**:
-  - Bahasa Pemrograman: Arduino C++ (embedded), JavaScript (web)
+  - Bahasa Pemrograman: Arduino C++ (embedded), JavaScript & PHP (web)
   - UI/UX: Tailwind CSS, GSAP
   - Komunikasi: MQTT (HiveMQ Broker)
   - Platform AI: Edge Impulse
