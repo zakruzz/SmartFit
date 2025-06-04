@@ -52,23 +52,23 @@ Desain ergonomis berukuran 5 x 4.5 cm yang dapat dipasang di lengan untuk kenyam
 
 ### 📊 Hasil Training Model ANN
 
-Push-Up :
+Push-Up : <br>
 <img src="img/pushup.png" alt="Training Accuracy" width="400"/>
 
-Sit-Up :
+Sit-Up : <br>
 <img src="img/situp.png" alt="Training Accuracy" width="400"/>
 
-Squat-Jump:
+Squat-Jump: <br>
 <img src="img/squatjump.png" alt="Training Accuracy" width="400"/>
 
-Tingkat Akurasi :
+Tingkat Akurasi : <br>
 <img src="img/tingkat_akurasi.png" alt="Training Accuracy" width="400"/>
 
 Model artificial neural network menghasilkan **akurasi sebesar 94.5%** dalam mengenali aktivitas fisik dari data akselerometer yang dikumpulkan melalui Edge Impulse.
 
 ### 📊 Bukti Pengambilan Data
 
-Foto Pengambilan Data :
+Foto Pengambilan Data : <br>
 <img src="img/ambil_data.jpg" alt="Training Accuracy" width="400"/>
 
 ## 🖥️ Dashboard Monitoring
@@ -79,7 +79,7 @@ Tampilan dashboard interaktif menyajikan:
 - Performa mingguan
 - Statistik pengguna
 
-Foto Dashboard Monitoring :
+Foto Dashboard Monitoring : <br>
 <img src="img/Display_HP1.jpg" alt="Training Accuracy" width="400"/>
 <img src="img/Display_HP2.jpg" alt="Training Accuracy" width="400"/>
 <img src="img/Display_HP3.jpg" alt="Training Accuracy" width="400"/>
