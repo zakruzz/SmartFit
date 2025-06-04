@@ -1,8 +1,5 @@
 # SMARTFIT: Smart Wearable for Fitness Training
 **DOSEN PEMBIMBING : Ahmad Radhy, S.Si, M.Si**
-
-**SMARTFIT** adalah inovasi gelang pintar berbasis AIoT yang dirancang untuk mendukung transformasi digital dalam kebugaran tubuh. Sistem ini memanfaatkan kombinasi sensor akselerometer, mikrokontroler, Artificial Neural Network (ANN), serta integrasi dengan aplikasi mobile dan website untuk mengenali gerakan olahraga seperti push-up, sit-up, dan squat jump secara real-time.
-
 ## 👥 Tim Pengembang
 
 - Nugroho Indra Kurniawan – 2042221031
@@ -10,6 +7,16 @@
 - Ahmad Fairuz Zaki Widyatna – 2042221061
 - Alan Darmawan Dewantoro – 2042221020
 > Institut Teknologi Sepuluh Nopember, Surabaya – 2025
+
+**SMARTFIT** adalah inovasi gelang pintar berbasis AIoT yang dirancang untuk mendukung transformasi digital dalam kebugaran tubuh. Sistem ini memanfaatkan kombinasi sensor akselerometer, mikrokontroler, Artificial Neural Network (ANN), serta integrasi dengan aplikasi mobile dan website untuk mengenali gerakan olahraga seperti push-up, sit-up, dan squat jump secara real-time.
+
+**Dokumen Teknis SMARTFIT :**
+<a href:"">Dokumen Teknis</a>
+
+**Video Demo SMARTFIT :**
+<a href:"https://drive.google.com/drive/folders/1Ru0IxpvqS2wF2XoDFobbOnO2OG3vka-e">Video Demo</a>
+
+
 
 ## 📱 Fitur Utama
 
