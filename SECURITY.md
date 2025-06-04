@@ -1,59 +1,76 @@
-# Privacy Policy for SmartFit
+# PRIVACY POLICY – SMARTFIT
 
-*Last Updated: June 4, 2025*
+*Terakhir diperbarui: 4 Juni 2025*
 
-SmartFit ("we" or "us") values your privacy. This Privacy Policy explains how we handle your information when you use our SmartFit app (the "App"). By using the App, you agree to this policy.
+SMARTFIT menghargai dan menjaga privasi setiap pengguna. Kebijakan ini menjelaskan bagaimana data pribadi dan data aktivitas olahraga Anda dikumpulkan, digunakan, dan dilindungi saat menggunakan perangkat wearable dan aplikasi SMARTFIT.
 
-## What We Collect
+## 🔍 Informasi yang Dikumpulkan
 
-- **Personal Info**: Name, email, or fitness data (like workouts or health metrics) you provide.
-- **Usage Info**: How you use the App, like features clicked or time spent.
-- **Device Info**: Details like your device type or IP address.
+SMARTFIT mengumpulkan jenis data berikut:
 
-## How We Use It
+- **Data Fisik Pengguna**: Termasuk tinggi badan, berat badan, jenis kelamin, yang diinputkan secara sukarela oleh pengguna.
+- **Data Aktivitas**: Jenis olahraga (push-up, sit-up, squat jump), jumlah repetisi, serta histori latihan yang dikirimkan secara otomatis dari wearable ke server.
+- **Data Perangkat**: ID perangkat wearable dan waktu aktivitas.
 
-We use your information to:
+## 🔄 Cara Pengumpulan Data
 
-- Run and improve the App.
-- Send you updates or notifications (if you agree).
-- Keep the App secure.
+Data dikumpulkan melalui:
 
-## Sharing Your Info
+- Sensor MPU6050 yang tertanam pada perangkat wearable untuk merekam pola gerakan.
+- Koneksi nirkabel melalui protokol MQTT dari perangkat ke server aplikasi.
+- Input manual oleh pengguna saat mendaftar atau memperbarui profil.
 
-We don’t sell your data. We may share it:
+## 🎯 Tujuan Penggunaan Data
 
-- With service providers helping us run the App (e.g., hosting or analytics).
-- If required by law.
-- During a business sale or merger.
+SMARTFIT menggunakan data Anda untuk:
 
-## Data Security
+- Mengenali dan mengklasifikasikan aktivitas olahraga secara otomatis.
+- Memberikan umpan balik dan notifikasi personal selama berolahraga.
+- Menyediakan personalisasi tantangan dan rekomendasi berdasarkan profil pengguna.
+- Menampilkan progres dan performa melalui dashboard aplikasi/web.
+- Meningkatkan pengalaman pengguna dan pengembangan sistem.
 
-We take steps to protect your data, but no system is 100% secure.
+## 🔐 Keamanan Data
 
-## Your Options
+Kami menerapkan langkah-langkah teknis untuk menjaga keamanan data Anda:
 
-- Update or delete your account in the App settings.
-- Turn off location services on your device (may limit features).
-- Opt out of promotional emails via the unsubscribe link.
+- Transmisi data dilakukan secara terenkripsi melalui protokol MQTT.
+- Data disimpan pada server dengan akses terbatas dan dilindungi autentikasi.
+- Hanya data yang relevan yang dikumpulkan dan disimpan.
 
-## Data Retention
+Namun, perlu diketahui bahwa tidak ada sistem yang benar-benar 100% aman. Kami berupaya semaksimal mungkin menjaga keamanan informasi Anda.
 
-We keep your data only as long as needed for the App’s purposes or as required by law.
+## 🧾 Retensi Data
 
-## Third-Party Links
+Data pengguna akan disimpan selama akun pengguna aktif atau selama diperlukan untuk keperluan fungsionalitas aplikasi. Data dapat dihapus atas permintaan pengguna melalui fitur penghapusan akun.
 
-The App may link to other sites. We’re not responsible for their privacy practices.
+## 🚫 Pembagian Data
 
-## Kids
+SMARTFIT tidak menjual, menyewakan, atau membagikan data pribadi Anda kepada pihak ketiga tanpa persetujuan, kecuali:
 
-The App is not for users under 13. We don’t knowingly collect data from children.
+- Diperlukan untuk layanan pihak ketiga seperti hosting, penyimpanan database, atau analitik.
+- Diminta oleh otoritas hukum atau regulasi yang berlaku.
 
-## Changes
+## 👶 Pengguna Anak
 
-We may update this policy. Check the App for the latest version.
+Aplikasi dan perangkat SMARTFIT tidak ditujukan untuk anak-anak di bawah usia 13 tahun.
 
-## Contact
+## ⚙️ Hak dan Kontrol Pengguna
 
-Questions? Email us at [ahmadfairuzzakiwidyatna@gmail.com](mailto:ahmadfairuzzakiwidyatna@gmail.com).
+Pengguna dapat:
 
-Thank you for using SmartFit!
+- Melihat dan mengubah data pribadi di menu pengaturan aplikasi.
+- Menghapus akun secara permanen dari sistem.
+- Menonaktifkan notifikasi atau fitur lokasi kapan saja.
+
+## 📝 Perubahan Kebijakan
+
+Kebijakan ini dapat diperbarui seiring perkembangan fitur dan teknologi. Informasi perubahan akan diumumkan melalui aplikasi atau website resmi SMARTFIT.
+
+## 📩 Kontak
+
+Untuk pertanyaan atau permintaan terkait kebijakan privasi, hubungi kami melalui email:
+
+[ahmadfairuzzakiwidyatna@gmail.com](mailto:ahmadfairuzzakiwidyatna@gmail.com)
+
+Terima kasih telah menggunakan SMARTFIT dan mempercayakan data Anda kepada kami.
