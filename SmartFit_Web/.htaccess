@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# Alihkan akses ke .env ke rickroll.php
+<Files ".env">
+    RewriteRule ^(.*)$ /rickroll.php [L]
+</Files>
+
+# Tambahan keamanan: Blokir akses ke file sensitif lainnya
+<FilesMatch "\.(env|log|ini)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
