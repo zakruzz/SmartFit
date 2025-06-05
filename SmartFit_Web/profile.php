@@ -231,7 +231,6 @@ if ($user === false) {
                         <option value="" <?php echo $user['gender'] === 'N/A' ? 'selected' : ''; ?>>Select Gender</option>
                         <option value="Male" <?php echo $user['gender'] === 'Male' ? 'selected' : ''; ?>>Male</option>
                         <option value="Female" <?php echo $user['gender'] === 'Female' ? 'selected' : ''; ?>>Female</option>
-                        <option value="Other" <?php echo $user['gender'] === 'Other' ? 'selected' : ''; ?>>Other</option>
                     </select>
                 </div>
                 <div class="profile-item">
